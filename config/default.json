@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost/node-notes-app",
+  "jwtSecret": "sl_myJwtSecret"
+}
